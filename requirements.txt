@@ -1,0 +1,14 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+bs4
+lxml
+tabulate
+virtualenv
+virtualenvwrapper
+mxnet
+requests
+jupyter
+jupyterlab
+pyaudio
